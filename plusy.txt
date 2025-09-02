@@ -27,3 +27,20 @@ Wsparcie osób z niepełnosprawnościami:
 Rozwój gospodarki i nauki:
  - Przyspiesza badania naukowe dzięki analizie ogromnych baz danych.
  - Pomaga firmom lepiej obsługiwać klientów i szybciej się rozwijać.
+
+
+
+    Wydajność i oszczędność czasu i wysiłku
+AI wykonuje zadania o wiele szybciej i dokładniej niż ludzie, dzięki czemu możesz oszczędzić nie tylko czas, ale i własną energię. Ponadto, sztuczna inteligencja pozwala na automatyzację procesów w biurach czy firmach jak np. analiza danych czy obsługa Klienta, co zapewnia bardziej efektywną pracę.
+
+    Poprawa jakości usług
+Kolejną zaletą AI jest możliwość zaawansowanej analizy danych i przewidywania trendów, co może prowadzić do poprawy jakości świadczonych usług. Świetnym przykładem jest algorytm rekomendacji, z którego korzystają takie firmy jak Amazon. Dzięki nim możliwe jest lepsze dopasowanie produktów do potrzeb Klientów, a tym samym zyskiwanie nowych kupujących.
+
+    Zwiększenie dostępności i elastyczności usług
+Dostępność usług w modelu 24/7 to nie lada gratka! SI umożliwia obsługę Klienta o każdej porze dnia i nocy np. w postaci chatbotów odpowiadających na pytania związane ze świadczonymi usługami. Jest to kolejny plus sztucznej inteligencji, który zdecydowanie zwiększa wygodę użytkowników.
+
+    Automatyzacja powtarzalnych zadań
+Dzięki AI automatyzacja żmudnych, powtarzalnych, ale także niebezpiecznych czynności np. na linii produkcyjnej, pozwala na odciążenie pracowników i daje im możliwość skupienia się na kreatywności i bardziej wartościowych zadaniach. Przykładem takiej automatyzacji mogą być wykorzystywane w fabryce BMW roboty, które wykonują proste zadania jak przenoszenie skrzyń czy układanie palet.
+
+    Szerokie zastosowanie w wielu różnych dziedzinach
+AI znajduje zastosowanie w wielu sektorach, takich jak medycyna, edukacja, produkcja czy transport, generując nowe możliwości i rozwiązania technologiczne. Przykładowo w branży przemysłowej, dzięki wykorzystywaniu sztucznej inteligencji maszyny są w stanie samodzielnie optymalizować procesy produkcji, monitorować jakość wyrobów, a nawet przewidywać awarie sprzętu.
