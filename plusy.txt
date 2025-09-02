@@ -1,1 +1,29 @@
+Plusy korzystania ze sztucznej inteligencji:
 
+Wygoda i oszczędność czasu:
+ - Automatyzuje powtarzalne zadania (np. sortowanie maili, wypełnianie dokumentów).
+ - Ułatwia szybkie wyszukiwanie informacji.
+
+Wsparcie w nauce i edukacji:
+ - Pomaga uczniom i studentom w zrozumieniu trudnych tematów.
+ - Może działać jak wirtualny korepetytor, dostępny 24/7.
+
+Rozwój medycyny:
+ - Wspiera diagnozowanie chorób szybciej i dokładniej niż człowiek.
+ - Pomaga w odkrywaniu nowych leków.
+
+Bezpieczeństwo:
+ - Analizuje ogromne ilości danych, by wykrywać oszustwa bankowe czy cyberataki.
+ - Może wspierać systemy bezpieczeństwa w transporcie (np. samochody autonomiczne).
+
+Rozrywka i kreatywność:
+ - Tworzy muzykę, obrazy, teksty, gry.
+ - Pomaga ludziom rozwijać pasje i ułatwia tworzenie treści.
+
+Wsparcie osób z niepełnosprawnościami:
+ - Tłumaczenia w czasie rzeczywistym, syntezatory mowy, systemy rozpoznawania obrazu.
+ - Ułatwia komunikację i codzienne funkcjonowanie.
+
+Rozwój gospodarki i nauki:
+ - Przyspiesza badania naukowe dzięki analizie ogromnych baz danych.
+ - Pomaga firmom lepiej obsługiwać klientów i szybciej się rozwijać.
