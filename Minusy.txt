@@ -2,3 +2,6 @@ Sztuczna inteligencja może być niebezpiecza dla ludzi, ponieważ:
 - Może przejąć kontrolę nad internetem i zaburzać jego prawdziwośc
 - Wywołać bezrobocie poprzez wypieranie stanowisk prac
 - Uzależniać od technologii
+- Naruszanie prywatności użytkowników
+- Wprowadzanie w błąd
+- Potencjalna inwazja terminatorów
